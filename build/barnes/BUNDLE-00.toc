@@ -1,0 +1,3 @@
+([('Barnes',
+   '/Users/benjaminmurray/Projects/ClimbingSpots2/dist/Barnes',
+   'EXECUTABLE')],)

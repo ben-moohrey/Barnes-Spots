@@ -1,0 +1,3 @@
+([('selenium-automation',
+   '/Users/benjaminmurray/Projects/ClimbingSpots2/dist/selenium-automation',
+   'EXECUTABLE')],)
